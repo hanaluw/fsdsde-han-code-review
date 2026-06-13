@@ -198,8 +198,8 @@ To be computed as a dedicated NLP pipeline once Silver pipelines are stable.
 Parquet · daily 10:00 ICT                             |
        |                                              |
        ▼                                      Avro/JSON continuous
-PostgreSQL (CDC batch)                                | 
-Debezium connector 1                                  |
+~~PostgreSQL (CDC batch)~~                               
+~~Debezium connector 1~~                              |
       Kafka                                           |
        |                                              |
        ▼                                              ▼
