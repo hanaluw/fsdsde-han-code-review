@@ -193,7 +193,7 @@ To be computed as a dedicated NLP pipeline once Silver pipelines are stable.
 ### 7.0 Pipeline Overview
  
 ```
-[CafeF Crawler]                          [Kafka: fintech_user_events]
+[CafeF Crawler]                             [Fintech_user_events]
        |                                              |
 Parquet · daily 10:00 ICT                             |
        |                                              |
